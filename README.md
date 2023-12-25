@@ -25,4 +25,8 @@ I am a MERN FullStack developer from India 🇮🇳 I am working as a Backend De
 
 <a href="mailto:deepsk3697@gmail.com" target="_blank" title="deepsk3697@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
+### Checkout My Resume
+
+<a href="https://drive.google.com/file/d/1VpP_7_nX0n9Btvh27xF8nDU9wkkkpnuI/view" target="_blank" title="resume" rel="noreferrer"><img src="https://www.reshot.com/preview-assets/icons/XTALQHGEVC/resume-XTALQHGEVC.svg)https://www.reshot.com/preview-assets/icons/XTALQHGEVC/resume-XTALQHGEVC.svg" alt="resume" width="30" height="30"/></a>
+
 
