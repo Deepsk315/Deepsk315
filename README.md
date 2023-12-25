@@ -2,7 +2,7 @@
 
 I am a MERN FullStack developer from India 🇮🇳 I am working as a Backend Developer Currently 
 
-### Currently I am working with ...
+### 👩🏻‍💻 Currently I am working with ...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
