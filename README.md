@@ -27,6 +27,6 @@ I am a MERN FullStack developer from India 🇮🇳 I am working as a Backend De
 
 ### Checkout My Resume
 
-<a href="https://drive.google.com/file/d/1VpP_7_nX0n9Btvh27xF8nDU9wkkkpnuI/view" target="_blank" title="resume" rel="noreferrer"><img src="https://www.reshot.com/preview-assets/icons/XTALQHGEVC/resume-XTALQHGEVC.svg)https://www.reshot.com/preview-assets/icons/XTALQHGEVC/resume-XTALQHGEVC.svg" alt="resume" width="30" height="30"/></a>
+<a href="https://drive.google.com/file/d/1VpP_7_nX0n9Btvh27xF8nDU9wkkkpnuI/view" target="_blank" title="resume" rel="noreferrer"><img src="https://www.reshot.com/preview-assets/icons/XTALQHGEVC/resume-XTALQHGEVC.svg" alt="resume" width="30" height="30"/></a>
 
 
