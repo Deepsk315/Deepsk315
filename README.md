@@ -1,6 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Deepak Sarkar 👩🏻‍💻!
 
-I am a MERN FullStack developer from India 🇮🇳 I am working as a Backend Developer Currently 
+I am a MERN FullStack developer from India 🇮🇳 I am working as a Software Developer(Full Stack) currently
 
 ### Currently I am working with ...
 
