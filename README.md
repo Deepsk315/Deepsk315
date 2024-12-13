@@ -6,7 +6,7 @@ I am a MERN FullStack developer from India 🇮🇳 I am working as a Software D
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="aws" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="TypeScript" width="60" height="40"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="aws" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="TypeScript" width="80" height="60"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="60" height="60"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="CircleCI" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="CircleCI" width="60" height="60"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ArdoCD" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="ArgoCD" width="60" height="60"/></a>&nbsp;&nbsp;
